@@ -20,7 +20,7 @@
     "nop": "^1.0.0"
   },
   "peerDependencies": {
-    "mongoose": "~4.2"
+    "mongoose": "~4.x"
   },
   "devDependencies": {
     "async": "^0.9.x",
